@@ -1,0 +1,33 @@
+
+.site-card-border-less-wrapper {
+    padding: 30px;
+    background: #a02323;
+    
+  }
+
+header {
+    height: 10vh;
+
+    .redes_sociales {
+        display: flex;
+        width: 100%;
+        background-color: #466FA6;
+        height: 52px;
+    }
+
+    .navegacion {
+        display: flex;       
+    }
+}
+
+
+
+footer {  
+    
+    bottom: 0px;  
+    height: 10vh;
+    width: 100%;   
+    text-align: center;;
+    background-color: blue;
+}
+
